@@ -1,6 +1,6 @@
 def my_each(array)
   counter = 0 
-  while counter is < 
+  while counter is < array.length 
  end
 end 
 
